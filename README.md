@@ -1,2 +1,2 @@
-# alarm
+# Study Creator
 "# Timetable" 
