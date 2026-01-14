@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Login - Study Timetable</title>
+  <link rel="stylesheet" href="css/auth.css" />
+</head>
+<body>
+
+  <div id="auth-page">
+    <div class="auth-container">
+      <div class="auth-header">
+        <div class="auth-logo">📚</div>
+        <h1>Study Timetable</h1>
+        <p class="auth-subtitle">Organize your study sessions efficiently</p>
+      </div>
+
+      <form id="login-form" class="auth-form active">
+        <h2>Welcome Back</h2>
+        
+        <div class="input-group">
+          <label for="email">Email</label>
+          <input type="email" id="email" placeholder="Enter your email" required />
+        </div>
+        
+        <div class="input-group">
+          <label for="password">Password</label>
+          <input type="password" id="password" placeholder="Enter your password" required />
+        </div>
+        
+        <div id="error-message" class="auth-error"></div>
+        
+        <button type="submit" class="auth-btn" id="login-btn">
+          <span>Sign In</span>
+        </button>
+        
+        <p class="auth-switch">
+          Don't have an account? <a href="signup.html">Sign Up</a>
+        </p>
+      </form>
+    </div>
+  </div>
+
+  <script type="module" src="js/auth.js"></script>
+</body>
+</html>
+
