@@ -1,3 +1,4 @@
+
 # 📚 Study Timetable Web Application
 
 A web-based **Study Timetable Management Application** designed to help students organize and manage their weekly study schedules efficiently.
@@ -91,5 +92,4 @@ BSc in Computer Science & Engineering
 ## 📜 License
 
 This project is created for educational and academic purposes.
-You are free to use, modify, and distribute it for learning.
-
+You are free to use, modify, and distribute it for learnin
