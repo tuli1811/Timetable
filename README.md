@@ -48,7 +48,7 @@ Follow the steps below to set up and run the project
 
 3- Insert your email and password and sign in
 
-4- If you have a account just enter email and password and sing in
+4- If you have an account just enter email and password and sign in
 
 5- Select a study day
 
