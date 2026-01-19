@@ -42,27 +42,29 @@ Follow the steps below to set up and run the project
 
 ## ▶️ Usage
 
-Open the application in a web browser
+1- Open the application in a web browser
 
-Create a new account if you do not have one
+2- Create a new account if you do not have one click sign up
 
-Log in using your email and password
+3- Insert your email and password and sign in
 
-Select a study day
+4- If you have a account just enter email and password and sing in
 
-Choose a subject
+5- Select a study day
 
-Select start time and time duration
+6- Choose a subject
 
-Click Generate Time Slot
+7- Select start time and time duration
 
-Write or select a task and click Add Task
+8- Click Generate Time Slot
 
-Edit or delete tasks as needed
+9- Write or select a task and click Add Task
 
-Click Download to get the full weekly routine as a PDF
+10- Edit or delete tasks as needed
 
-Log out when finished
+11- Click Download to get the full weekly routine as a PDF
+
+12- Log out when finished
 
 ---
 
